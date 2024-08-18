@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Priyadharshweb
 - 🌱 I’m currently learning REACT
-- 📫 How to reach me @priyadharshweb@gmai.com
+- 📫 How to reach me @priyadharshweb@gmail.com
 
 
 <!---
